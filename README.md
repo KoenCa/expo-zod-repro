@@ -1,5 +1,7 @@
 # React Native React Hook form with Zod resolver repro
 
+https://github.com/react-hook-form/resolvers/issues/785
+
 Reproduction repository to reproduce a bug where Zod locales and global error customization are not working correctly
 due to new Metro ES Module resolution.
 
