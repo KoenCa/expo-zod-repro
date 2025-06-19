@@ -13,6 +13,12 @@ due to new Metro ES Module resolution.
 6. Reload the app on your simulator/device
 7. In app press `Submit` -> "Too small: expected string to have >=1 characters" message is shown.
     - This is the expected behavior.
+  
+**With new Metro ES Module resolution**
+<video src="https://github.com/user-attachments/assets/25489838-29ec-4f10-b0a4-b7a943205283" />
+
+**Without new Metro ES Module resolution**
+<video src="https://github.com/user-attachments/assets/bdf904e0-2783-4aa9-8dcc-9f1026c3a6b5" />
 
 # Welcome to your Expo app 👋
 
